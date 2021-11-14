@@ -49,6 +49,9 @@ p {
 .logo span {
   color: var(--mainColor);
 }
+.header {
+  border-bottom: 1px solid #ececec;
+}
 /*---------------------------- Header ----------------------------*/
 .flex,
 .menu {
@@ -271,9 +274,6 @@ p {
   color: var(--blueColor);
 }
 /*---------------------------- Portfolio ----------------------------  */
-.header {
-  border-bottom: 1px solid #ececec;
-}
 .filter-list {
   list-style: none;
   display: flex;
